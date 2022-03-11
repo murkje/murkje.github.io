@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Distributions xmlns:tns="http://www.mcupdater.com/Distribution" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mcupdater.com/Distribution Distribution.xsd ">
     <Distribution name="JavaFX-Release">
-        <FriendlyName>MCUpdater 4.0</FriendlyName>
+        <FriendlyName>CarlCraft Launcher</FriendlyName>
         <Class>org.mcupdater.gui.javafx.Main</Class>
         <Params>--ServerPack ${defaultPack} --MCURoot ${MCURoot} --runtimes=${runtimes}</Params>
         <Library>
