@@ -149,13 +149,7 @@
 			<ModType>Regular</ModType>
 			<MD5>b14d1ba402e5f2df849540c91c6377e6</MD5>
 		</Module>
-		<Module name="indium-1.0.2-alpha1+mc1.18" id="indium" depends="" side="BOTH">
-			<URL priority="0">http://flappy.fc.school/modpack/mods/indium-1.0.2-alpha1+mc1.18.jar</URL>
-			<Size>110396</Size>
-			<Required>true</Required>
-			<ModType>Regular</ModType>
-			<MD5>03393652255585d6cad1b64a9847cac4</MD5>
-		</Module>
+		
 		<Module name="inmis-2.4.0-1.18" id="inmis" depends="" side="BOTH">
 			<URL priority="0">http://flappy.fc.school/modpack/mods/inmis-2.4.0-1.18.jar</URL>
 			<Size>129437</Size>
