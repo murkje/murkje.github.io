@@ -331,8 +331,8 @@
 			<ModType>Regular</ModType>
 			<MD5>aed1504bfd474cb5e8d3c3cdff580826</MD5>
 		</Module>
-		<Module name="sodium-extra-mc1.18-0.3.7" id="sodiumextramc" depends="" side="BOTH">
-			<URL priority="0">http://flappy.fc.school/modpack/mods/sodium-extra-mc1.18-0.3.7.jar</URL>
+		<Module name="sodium-extra-mc1.18.1-0.4.0.jar" id="sodiumextramc" depends="" side="BOTH">
+			<URL priority="0">http://flappy.fc.school/modpack/mods/sodium-extra-mc1.18.1-0.4.0.jar</URL>
 			<Size>86120</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
