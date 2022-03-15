@@ -317,7 +317,6 @@
 			<ModType>Regular</ModType>
 			<MD5>d6ec7264af7da33e2cdab08d9ed00773</MD5>
 		</Module>
-		<Module name="RoughlyEnoughItems-7.1.356" id="roughlyenoughitems" depends="" side="BOTH">
 		<Module name="RoughlyEnoughItems-7.1.356" id="roughlyenoughitems" depends="" side="CLIENT">
 			<URL priority="0">http://flappy.fc.school/modpack/mods/RoughlyEnoughItems-7.1.356.jar</URL>
 			<Size>1497291</Size>
