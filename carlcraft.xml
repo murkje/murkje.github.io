@@ -338,8 +338,8 @@
 			<ModType>Regular</ModType>
 			<MD5>8d2d86d6e94390cc5b301ec05c0bfaf9</MD5>
 		</Module>
-		<Module name="sodium-fabric-mc1.18-0.4.0-alpha5" id="sodiumfabricmc" depends="" side="BOTH">
-			<URL priority="0">http://flappy.fc.school/modpack/mods/sodium-fabric-mc1.18-0.4.0-alpha5.jar</URL>
+		<Module name="sodium-fabric-mc1.18.1-0.4.0-alpha6+build.14" id="sodiumfabricmc" depends="" side="BOTH">
+			<URL priority="0">http://flappy.fc.school/modpack/mods/sodium-fabric-mc1.18.1-0.4.0-alpha6+build.14.jar</URL>
 			<Size>1306093</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
@@ -375,6 +375,13 @@
 		</Module>
 		<Module name="indium-1.0.2-alpha1+mc1.18" id="indium" depends="" side="BOTH">
 			<URL priority="0">http://flappy.fc.school/modpack/mods/indium-1.0.2-alpha3+mc1.18.1.jar</URL>
+			<Size>110396</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>03393652255585d6cad1b64a9847cac4</MD5>
+		</Module>
+		<Module name="sodium-extra-mc1.18.1-0.4.0.jar" id="sodium-extra" depends="" side="BOTH">
+			<URL priority="0">http://flappy.fc.school/modpack/mods/sodium-extra-mc1.18.1-0.4.0.jar</URL>
 			<Size>110396</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
