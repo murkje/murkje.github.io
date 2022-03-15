@@ -226,13 +226,6 @@
 			<ModType>Regular</ModType>
 			<MD5>9411d9c800ef983de97aa641e791f276</MD5>
 		</Module>
-		<Module name="Multiworld-1.2" id="multiworld" depends="" side="BOTH">
-			<URL priority="0">http://flappy.fc.school/modpack/mods/Multiworld-1.2.jar</URL>
-			<Size>58337</Size>
-			<Required>true</Required>
-			<ModType>Regular</ModType>
-			<MD5>52f281a6616f14bfc52fb687628755c7</MD5>
-		</Module>
 		<Module name="mythic-mounts-1.18-4.0" id="mythicmounts" depends="" side="BOTH">
 			<URL priority="0">http://flappy.fc.school/modpack/mods/mythic-mounts-1.18-4.0.jar</URL>
 			<Size>2938481</Size>
