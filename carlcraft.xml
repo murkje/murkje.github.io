@@ -73,7 +73,7 @@
 			<MD5>0c3e883fa2bb996fbf754bd9cb71eafe</MD5>
 		</Module>
 		<Module name="dynamic-fps-2.0.6" id="dynamicfps" depends="" side="BOTH">
-			<URL priority="0">hhttps://edge.forgecdn.net/files/3497/287/dynamic-fps-2.0.6.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3497/287/dynamic-fps-2.0.6.jar</URL>
 			<Size>90373</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
