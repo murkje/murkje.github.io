@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ServerPack version="4.0" xmlns="http://www.mcupdater.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mcupdater.com http://files.mcupdater.com/ServerPackv2.xsd">
 	<Server id="carlcraft" abstract="false" name="CarlCraft - Into the carlverse" newsUrl="about:blank" version="1.18.1" serverAddress="46.105.60.73:25583" generateList="true" autoConnect="false" revision="1" mainClass="net.fabricmc.loader.launch.knot.KnotClient" launcherType="Vanilla">
-		<Import url="https://fabricmc.net/download/mcupdater/?yarn=1.18.1&build.22&loader=0.13.3">fabric</Import>
+		<Import url="https://fabricmc.net/download/mcupdater/?yarn=1.18.1%2Bbuild.22&loader=0.13.3">fabric</Import>
 		<Module name="architectury-3.2.60(1)" id="architectury" depends="" side="BOTH">
 			<URL priority="0">https://edge.forgecdn.net/files/3671/604/architectury-3.7.31.jar</URL>
 			<Size>518307</Size>
