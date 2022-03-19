@@ -3,154 +3,154 @@
 	<Server id="carlcraft" abstract="false" name="CarlCraft - Into the carlverse" newsUrl="about:blank" version="1.18.1" serverAddress="46.105.60.73:25583" generateList="true" autoConnect="false" revision="1" mainClass="net.fabricmc.loader.launch.knot.KnotClient" launcherType="Vanilla">
 		<Import url="https://fabricmc.net/download/mcupdater?yarn=1.18.1%2Bbuild.22&amp;loader=0.13.3">fabric</Import>
 		<Module name="architectury-3.2.60(1)" id="architectury" depends="" side="BOTH">
-			<URL priority="0">http://flappy.fc.school/modpack/mods/architectury-3.2.60(1).jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3671/604/architectury-3.7.31.jar</URL>
 			<Size>518307</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>83a9a49ed31c1932651f503a79768d54</MD5>
 		</Module>
 		<Module name="bclib-1.1.6" id="bclib" depends="" side="BOTH">
-			<URL priority="0">http://flappy.fc.school/modpack/mods/bclib-1.1.6.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3680/592/bclib-1.3.5.jar</URL>
 			<Size>909069</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>465f26720b9c2bf2164c487b19ca5216</MD5>
 		</Module>
 		<Module name="better-end-1.0.0" id="betterend" depends="" side="BOTH">
-			<URL priority="0">http://flappy.fc.school/modpack/mods/better-end-1.0.0.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3680/606/better-end-1.0.3.jar</URL>
 			<Size>91256215</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>c0dd4ba53a10e16391cfa661c38edc21</MD5>
 		</Module>
 		<Module name="better-nether-6.0.8" id="betternether" depends="" side="BOTH">
-			<URL priority="0">http://flappy.fc.school/modpack/mods/better-nether-6.0.8.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3680/568/better-nether-6.0.11.jar</URL>
 			<Size>22307314</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>7864d411619e90ffb0381bf8287efa25</MD5>
 		</Module>
 		<Module name="cardinal-components-api-4.1.4" id="cardinalcomponentsapi" depends="" side="BOTH">
-			<URL priority="0">http://flappy.fc.school/modpack/mods/cardinal-components-api-4.1.4.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3669/769/cardinal-components-api-4.1.4.jar</URL>
 			<Size>253060</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>5016e946d72e744d57e93fee33b6bb8c</MD5>
 		</Module>
 		<Module name="carrier-1.9.1" id="carrier" depends="" side="BOTH">
-			<URL priority="0">http://flappy.fc.school/modpack/mods/carrier-1.9.1.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3624/495/carrier-1.9.1.jar</URL>
 			<Size>433558</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>f14815292112fc895bf20f8ab3519ea1</MD5>
 		</Module>
 		<Module name="cspirit-1.2.2+1.18.1" id="cspirit" depends="" side="BOTH">
-			<URL priority="0">http://flappy.fc.school/modpack/mods/cspirit-1.2.2+1.18.1.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3580/358/cspirit-1.2.2+1.18.1.jar</URL>
 			<Size>7246159</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>7080a73f06d4b0d30adeccfa825ab68a</MD5>
 		</Module>
 		<Module name="custom-portals-3.0.0" id="customportals" depends="" side="BOTH">
-			<URL priority="0">http://flappy.fc.school/modpack/mods/custom-portals-3.0.0.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3597/015/custom-portals-3.0.0.jar</URL>
 			<Size>1597689</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>3c9591e0b74e4bb0a1a0171315cba906</MD5>
 		</Module>
 		<Module name="dual_riders-1.18.1-1.0.5" id="dual_riders" depends="" side="BOTH">
-			<URL priority="0">http://flappy.fc.school/modpack/mods/dual_riders-1.18.1-1.0.5.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3576/954/dual_riders-1.18.1-1.0.5.jar</URL>
 			<Size>228458</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>e798c62f0ce2c53fb864d3d20265a9e1</MD5>
 		</Module>
 		<Module name="dualwielding-1.0.7(2)" id="dualwielding" depends="" side="BOTH">
-			<URL priority="0">http://flappy.fc.school/modpack/mods/dualwielding-1.0.7(2).jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3543/501/dualwielding-1.0.7.jar</URL>
 			<Size>29310</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>0c3e883fa2bb996fbf754bd9cb71eafe</MD5>
 		</Module>
 		<Module name="dynamic-fps-2.0.6" id="dynamicfps" depends="" side="BOTH">
-			<URL priority="0">http://flappy.fc.school/modpack/mods/dynamic-fps-2.0.6.jar</URL>
+			<URL priority="0">hhttps://edge.forgecdn.net/files/3497/287/dynamic-fps-2.0.6.jar</URL>
 			<Size>90373</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>16b601d42126586465ccc5be23226f19</MD5>
 		</Module>
 		<Module name="ears-fabric-1.17-1.4.3(1)" id="earsfabric" depends="" side="BOTH">
-			<URL priority="0">http://flappy.fc.school/modpack/mods/ears-fabric-1.17-1.4.3(1).jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3616/906/ears-fabric-1.17-1.4.5_01.jar</URL>
 			<Size>151579</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>f857a569bdd43178537d2bb9911c7cb7</MD5>
 		</Module>
 		<Module name="enhancedblockentities-0.5+1.18" id="enhancedblockentities" depends="" side="BOTH">
-			<URL priority="0">http://flappy.fc.school/modpack/mods/enhancedblockentities-0.5+1.18.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3557/031/enhancedblockentities-0.5+1.18.jar</URL>
 			<Size>262810</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>553a18a59dcc84cea4965c5cf851211c</MD5>
 		</Module>
 		<Module name="extraorigins-1.18-1" id="extraorigins" depends="" side="BOTH">
-			<URL priority="0">http://flappy.fc.school/modpack/mods/extraorigins-1.18-1.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3646/247/extraorigins-1.18-9.jar</URL>
 			<Size>67699</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>390299cbd7ae500acea4fdbe13c84ddd</MD5>
 		</Module>
 		<Module name="fabric-api-0.45.0+1.18" id="fabricapi" depends="" side="BOTH">
-			<URL priority="0">http://flappy.fc.school/modpack/mods/fabric-api-0.45.0+1.18.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3634/318/fabric-api-0.46.4+1.18.jar</URL>
 			<Size>1144830</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>f23fd6e4b81bb02b532ad0aaa1af59c1</MD5>
 		</Module>
 		<Module name="fabric-carpet-1.18-1.4.56+v211130" id="fabriccarpet" depends="" side="BOTH">
-			<URL priority="0">http://flappy.fc.school/modpack/mods/fabric-carpet-1.18-1.4.56+v211130.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3613/878/fabric-carpet-1.18.1-1.4.57+v220119.jar</URL>
 			<Size>1455386</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>4078f02b6ff8d7cc32f02c6df4ce94f5</MD5>
 		</Module>
 		<Module name="FallingTree-1.18.1-2.16.1" id="fallingtree" depends="" side="BOTH">
-			<URL priority="0">http://flappy.fc.school/modpack/mods/FallingTree-1.18.1-2.16.1.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3640/237/FallingTree-1.18.1-3.2.1.jar</URL>
 			<Size>1218944</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>194b1b5754c36ad3f8912bc13c3bc484</MD5>
 		</Module>
 		<Module name="fancymenu_fabric_2.4.3_MC_1.18" id="fancymenu_fabric_" depends="" side="BOTH">
-			<URL priority="0">http://flappy.fc.school/modpack/mods/fancymenu_fabric_2.4.3_MC_1.18.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3671/335/fancymenu_fabric_2.6.4_MC_1.18-1.18.1.jar</URL>
 			<Size>709545</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>3a0ddf80cff125b844d3e80c233d9df2</MD5>
 		</Module>
 		<Module name="geckolib-fabric-1.18-3.0.23" id="geckolibfabric" depends="" side="BOTH">
-			<URL priority="0">http://flappy.fc.school/modpack/mods/geckolib-fabric-1.18-3.0.23.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3661/790/geckolib-fabric-1.18-3.0.33.jar</URL>
 			<Size>3536485</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>46340c095e1459a30093adfbfe96e9e5</MD5>
 		</Module>
 		<Module name="goprone-1.18.1-1.6.0" id="goprone" depends="" side="BOTH">
-			<URL priority="0">http://flappy.fc.school/modpack/mods/goprone-1.18.1-1.6.0.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3545/146/GoProne-Fabric-1.18-1.1.jar</URL>
 			<Size>156936</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>933e18ca41ca9db73a677b0674c8cc42</MD5>
 		</Module>
 		<Module name="icarus-1.9" id="icarus" depends="" side="BOTH">
-			<URL priority="0">http://flappy.fc.school/modpack/mods/icarus-1.9.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3542/600/icarus-1.9.jar</URL>
 			<Size>181307</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>b14d1ba402e5f2df849540c91c6377e6</MD5>
 		</Module>
 		<Module name="inmis-2.4.0-1.18" id="inmis" depends="" side="BOTH">
-			<URL priority="0">http://flappy.fc.school/modpack/mods/inmis-2.4.0-1.18.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3623/328/inmis-2.5.1-1.18.1.jar</URL>
 			<Size>129437</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
@@ -164,56 +164,56 @@
 			<MD5>fc7e13f373dd5a7b5c1cb24d20617d04</MD5>
 		</Module>
 		<Module name="konkrete_fabric_1.3.2_MC_1.18" id="konkrete_fabric_" depends="" side="BOTH">
-			<URL priority="0">http://flappy.fc.school/modpack/mods/konkrete_fabric_1.3.2_MC_1.18.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3555/630/konkrete_fabric_1.3.2_MC_1.18.jar</URL>
 			<Size>281715</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>4c61f8f26551fcdd6f3705b5e23b5f1d</MD5>
 		</Module>
 		<Module name="krypton-0.1.6" id="krypton" depends="" side="BOTH">
-			<URL priority="0">http://flappy.fc.school/modpack/mods/krypton-0.1.6.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3559/150/krypton-0.1.6.jar</URL>
 			<Size>128782</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>63da5e85f629a406857bdeaa13799221</MD5>
 		</Module>
 		<Module name="lambdynamiclights-2.1.0+1.17(1)" id="lambdynamiclights" depends="" side="BOTH">
-			<URL priority="0">http://flappy.fc.school/modpack/mods/lambdynamiclights-2.1.0+1.17(1).jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3541/670/lambdynamiclights-2.1.0+1.17.jar</URL>
 			<Size>592990</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>14f088afd4041973b1a083b0c7705303</MD5>
 		</Module>
 		<Module name="lazydfu-0.1.2" id="lazydfu" depends="" side="BOTH">
-			<URL priority="0">http://flappy.fc.school/modpack/mods/lazydfu-0.1.2.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3209/972/lazydfu-0.1.2.jar</URL>
 			<Size>15517</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>b2597e901c05673ef2834dad32da8824</MD5>
 		</Module>
 		<Module name="lithium-fabric-mc1.18.1-0.7.6(1)" id="lithiumfabricmc" depends="" side="BOTH">
-			<URL priority="0">http://flappy.fc.school/modpack/mods/lithium-fabric-mc1.18.1-0.7.6(1).jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3659/182/lithium-fabric-mc1.18.1-0.7.8.jar</URL>
 			<Size>387086</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>78db5a281defce0ccd4ef27b1be3fb58</MD5>
 		</Module>
 		<Module name="lovely_snails-1.0.3+1.18" id="lovely_snails" depends="" side="BOTH">
-			<URL priority="0">http://flappy.fc.school/modpack/mods/lovely_snails-1.0.3+1.18.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3546/566/lovely_snails-1.0.3+1.18.jar</URL>
 			<Size>130465</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>e0801e645046def466b72658358e9fe6</MD5>
 		</Module>
 		<Module name="mcda-1.8.6" id="mcda" depends="" side="BOTH">
-			<URL priority="0">http://flappy.fc.school/modpack/mods/mcda-1.8.6.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3668/764/mcda-2.0.2.jar</URL>
 			<Size>858994</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>ede5a4ab106e4b284c132ceec70f4a47</MD5>
 		</Module>
 		<Module name="mcdar-1.4.3-1.18" id="mcdar" depends="" side="BOTH">
-			<URL priority="0">http://flappy.fc.school/modpack/mods/mcdar-1.4.3-1.18.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3542/340/mcdar-1.4.3-1.18.jar</URL>
 			<Size>263688</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
