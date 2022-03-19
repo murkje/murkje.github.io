@@ -380,5 +380,12 @@
 			<ModType>Regular</ModType>
 			<MD5>03393652255585d6cad1b64a9847cac4</MD5>
 		</Module>
+		<Module name="clothconfig" id="clothconfigapi" depends="" side="BOTH">
+			<URL priority="0">https://edge.forgecdn.net/files/3641/132/cloth-config-6.2.57-fabric.jar</URL>
+			<Size>110396</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>03393652255585d6cad1b64a9847cac4</MD5>
+		</Module>
 	</Server>
 </ServerPack>
