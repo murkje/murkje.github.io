@@ -156,13 +156,6 @@
 			<ModType>Regular</ModType>
 			<MD5>fc7e13f373dd5a7b5c1cb24d20617d04</MD5>
 		</Module>
-		<Module name="konkrete_fabric_1.3.2_MC_1.18" id="konkrete_fabric_" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3593/183/konkrete_fabric_1.3.3_MC_1.18-1.18.1.jar</URL>
-			<Size>281715</Size>
-			<Required>true</Required>
-			<ModType>Regular</ModType>
-			<MD5>4c61f8f26551fcdd6f3705b5e23b5f1d</MD5>
-		</Module>
 		<Module name="krypton-0.1.6" id="krypton" depends="" side="BOTH">
 			<URL priority="0">https://edge.forgecdn.net/files/3559/150/krypton-0.1.6.jar</URL>
 			<Size>128782</Size>
