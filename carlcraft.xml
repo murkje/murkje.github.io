@@ -129,7 +129,7 @@
 			<MD5>46340c095e1459a30093adfbfe96e9e5</MD5>
 		</Module>
 		<Module name="goprone-1.18.1-1.6.0" id="goprone" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3571/403/goprone-1.18.1-1.6.0.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3545/146/GoProne-Fabric-1.18-1.1.jar</URL>
 			<Size>156936</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
