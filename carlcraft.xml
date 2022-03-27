@@ -213,7 +213,7 @@
 			<MD5>531548f0ee433dedd4828d9b1ae63ebd</MD5>
 		</Module>
 		<Module name="mermod-1.9-CUSTOMVERSION" id="mermod" depends="" side="BOTH">
-			<URL priority="0">http://flappy.fc.school/modpack/mods/mermod.jar</URL>
+			<URL priority="0">https://carl-craft.com/mermod.jar</URL>
 			<Size>196752</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
