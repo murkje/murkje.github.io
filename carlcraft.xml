@@ -402,7 +402,7 @@
 			<MD5>03393652255585d6cad1b64a9847cac4</MD5>
 		</Module>
 		<Module name="starterkit" id="starterkit" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3678/695/collective-fabric-1.18.x-4.9.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3542/112/starterkit-fabric_1.18.x-3.1.jar</URL>
 			<Size>110396</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
