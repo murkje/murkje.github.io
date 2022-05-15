@@ -436,7 +436,6 @@
 			<ModType>Regular</ModType>
 			<MD5>03393652255585d6cad1b64a9847cac4</MD5>
 		</Module>
-		
 		<Module name="skyvillages" id="skyvillages" depends="" side="BOTH">
 			<URL priority="0">https://edge.forgecdn.net/files/3587/441/SkyVillages-1.0.1-1.18.1-fabric.jar</URL>
 			<Size>110396</Size>
@@ -444,7 +443,6 @@
 			<ModType>Regular</ModType>
 			<MD5>03393652255585d6cad1b64a9847cac4</MD5>
 		</Module>
-		
 		<Module name="malilib" id="malilib" depends="" side="BOTH">
 			<URL priority="0">https://edge.forgecdn.net/files/3671/369/malilib-fabric-1.18.1-0.11.8.jar</URL>
 			<Size>110396</Size>
@@ -452,6 +450,12 @@
 			<ModType>Regular</ModType>
 			<MD5>03393652255585d6cad1b64a9847cac4</MD5>
 		</Module>
-		
+		<Module name="paradiselost" id="paradiselost" depends="" side="BOTH">
+			<URL priority="0">https://edge.forgecdn.net/files/3777/051/paradise-lost-1.6.9+1.18.1.jar</URL>
+			<Size>110396</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>03393652255585d6cad1b64a9847cac4</MD5>
+		</Module>
 	</Server>
 </ServerPack>
