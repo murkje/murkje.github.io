@@ -415,9 +415,15 @@
 			<ModType>Regular</ModType>
 			<MD5>03393652255585d6cad1b64a9847cac4</MD5>
 		</Module>
-
 		<Module name="bitsandchisels" id="bitsandchisels" depends="" side="BOTH">
 			<URL priority="0">https://edge.forgecdn.net/files/3592/089/bitsandchisels-2.6.4.jar</URL>
+			<Size>110396</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>03393652255585d6cad1b64a9847cac4</MD5>
+		</Module>
+		<Module name="travelersbackpack" id="travelersbackpack" depends="" side="BOTH">
+			<URL priority="0">https://edge.forgecdn.net/files/3662/414/travelers-backpack-1.18.1-7.0.0.jar</URL>
 			<Size>110396</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
