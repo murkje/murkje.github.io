@@ -142,13 +142,6 @@
 			<ModType>Regular</ModType>
 			<MD5>b14d1ba402e5f2df849540c91c6377e6</MD5>
 		</Module>
-		<Module name="inmis-2.4.0-1.18" id="inmis" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3623/328/inmis-2.5.1-1.18.1.jar</URL>
-			<Size>129437</Size>
-			<Required>true</Required>
-			<ModType>Regular</ModType>
-			<MD5>e3a56cb0fd784d1fc36ca97a7557b669</MD5>
-		</Module>
 		<Module name="iris-mc1.18.1-1.2.0-pre" id="irismc" depends="" side="BOTH">
 			<URL priority="0">https://edge.forgecdn.net/files/3612/857/iris-mc1.18.1-1.2.0-pre.jar</URL>
 			<Size>1593730</Size>
@@ -445,6 +438,13 @@
 		</Module>
 		<Module name="paradiselost" id="paradiselost" depends="" side="BOTH">
 			<URL priority="0">https://edge.forgecdn.net/files/3777/051/paradise-lost-1.6.9+1.18.1.jar</URL>
+			<Size>110396</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>03393652255585d6cad1b64a9847cac4</MD5>
+		</Module>
+		<Module name="inmis" id="inmis" depends="" side="BOTH">
+			<URL priority="0">https://edge.forgecdn.net/files/3557/005/inmis-2.4.0-1.18.jar</URL>
 			<Size>110396</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
