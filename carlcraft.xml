@@ -44,13 +44,6 @@
 			<ModType>Regular</ModType>
 			<MD5>f14815292112fc895bf20f8ab3519ea1</MD5>
 		</Module>
-		<Module name="cspirit-1.2.2+1.18.1" id="cspirit" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3580/358/cspirit-1.2.2+1.18.1.jar</URL>
-			<Size>7246159</Size>
-			<Required>true</Required>
-			<ModType>Regular</ModType>
-			<MD5>7080a73f06d4b0d30adeccfa825ab68a</MD5>
-		</Module>
 		<Module name="custom-portals-3.0.0" id="customportals" depends="" side="BOTH">
 			<URL priority="0">https://edge.forgecdn.net/files/3597/015/custom-portals-3.0.0.jar</URL>
 			<Size>1597689</Size>
