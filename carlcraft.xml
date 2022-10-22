@@ -443,5 +443,33 @@
 			<ModType>Regular</ModType>
 			<MD5>03393652255585d6cad1b64a9847cac4</MD5>
 		</Module>
+		<Module name="pswg" id="pswg" depends="" side="BOTH">
+			<URL priority="0">https://edge.forgecdn.net/files/3819/114/pswg-0.0.71+1.18.2.jar</URL>
+			<Size>110396</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>03393652255585d6cad1b64a9847cac4</MD5>
+		</Module>
+		<Module name="dbeer" id="drinkbeer" depends="" side="BOTH">
+			<URL priority="0">https://edge.forgecdn.net/files/3575/314/drinkbeer-v3.0.2 for 1.18.1.jar</URL>
+			<Size>110396</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>03393652255585d6cad1b64a9847cac4</MD5>
+		</Module>
+		<Module name="ctopia" id="croptopia" depends="" side="BOTH">
+			<URL priority="0">https://edge.forgecdn.net/files/3947/781/Croptopia-1.18.2-FABRIC-2.1.0.jar</URL>
+			<Size>110396</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>03393652255585d6cad1b64a9847cac4</MD5>
+		</Module>
+		<Module name="ftbq" id="ftbquests" depends="" side="BOTH">
+			<URL priority="0">https://edge.forgecdn.net/files/3940/954/ftb-quests-fabric-1802.3.8-build.106.jar</URL>
+			<Size>110396</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>03393652255585d6cad1b64a9847cac4</MD5>
+		</Module>
 	</Server>
 </ServerPack>
