@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ServerPack version="4.0" xmlns="http://www.mcupdater.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mcupdater.com http://files.mcupdater.com/ServerPackv2.xsd">
 	<Server id="carlcraft" abstract="false" name="CarlCraft - Into the carlverse" newsUrl="about:blank" iconUrl="https://cdn.discordapp.com/attachments/535195187111133185/958096710062723082/CarlCraft_-_thumbnail_-_smoll.png" version="1.18.1" serverAddress="46.105.60.73:25583" generateList="true" autoConnect="false" revision="1" mainClass="net.fabricmc.loader.launch.knot.KnotClient" launcherType="Vanilla">
-		<Import url="https://fabricmc.net/download/mcupdater?yarn=1.18.1%2Bbuild.22&amp;loader=0.13.3">fabric</Import>
+		<Import url="https://fabricmc.net/download/mcupdater?yarn=1.18.2%2Bbuild.4&amp;loader=0.14.10">fabric</Import>
 		<Module name="architectury-3.2.60(1)" id="architectury" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3671/604/architectury-3.7.31.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/4040/965/architectury-4.10.86-fabric.jar</URL>
 			<Size>518307</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>83a9a49ed31c1932651f503a79768d54</MD5>
 		</Module>
 		<Module name="bclib-1.1.6" id="bclib" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3680/592/bclib-1.3.5.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3814/359/bclib-1.4.7.jar</URL>
 			<Size>909069</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>465f26720b9c2bf2164c487b19ca5216</MD5>
 		</Module>
 		<Module name="better-end-1.0.0" id="betterend" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3680/606/better-end-1.0.3.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3814/370/better-end-1.1.1.jar</URL>
 			<Size>91256215</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>c0dd4ba53a10e16391cfa661c38edc21</MD5>
 		</Module>
 		<Module name="better-nether-6.0.8" id="betternether" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3680/568/better-nether-6.0.11.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3814/362/better-nether-6.1.2.jar</URL>
 			<Size>22307314</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>7864d411619e90ffb0381bf8287efa25</MD5>
 		</Module>
 		<Module name="cardinal-components-api-4.1.4" id="cardinalcomponentsapi" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3669/769/cardinal-components-api-4.1.4.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3856/670/cardinal-components-api-4.2.0.jar</URL>
 			<Size>253060</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>5016e946d72e744d57e93fee33b6bb8c</MD5>
 		</Module>
 		<Module name="carrier-1.9.1" id="carrier" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3624/495/carrier-1.9.1.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3671/184/carrier-1.10.0.jar</URL>
 			<Size>433558</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>f14815292112fc895bf20f8ab3519ea1</MD5>
 		</Module>
 		<Module name="custom-portals-3.0.0" id="customportals" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3597/015/custom-portals-3.0.0.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3680/456/custom-portals-3.0.1.jar</URL>
 			<Size>1597689</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>3c9591e0b74e4bb0a1a0171315cba906</MD5>
 		</Module>
 		<Module name="dual_riders-1.18.1-1.0.5" id="dual_riders" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3576/954/dual_riders-1.18.1-1.0.5.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3783/155/dual_riders-1.18.2-1.1.1-fabric.jar</URL>
 			<Size>228458</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>e798c62f0ce2c53fb864d3d20265a9e1</MD5>
 		</Module>
 		<Module name="dualwielding-1.0.7(2)" id="dualwielding" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3543/501/dualwielding-1.0.7.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3819/386/dualwielding-1.1.0.jar</URL>
 			<Size>29310</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>0c3e883fa2bb996fbf754bd9cb71eafe</MD5>
 		</Module>
 		<Module name="dynamic-fps-2.0.6" id="dynamicfps" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3497/287/dynamic-fps-2.0.6.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3606/973/dynamic-fps-2.1.0.jar</URL>
 			<Size>90373</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
@@ -80,42 +80,42 @@
 			<MD5>f857a569bdd43178537d2bb9911c7cb7</MD5>
 		</Module>
 		<Module name="enhancedblockentities-0.5+1.18" id="enhancedblockentities" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3557/031/enhancedblockentities-0.5+1.18.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3841/822/enhancedblockentities-0.7.1+1.18.2.jar</URL>
 			<Size>262810</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>553a18a59dcc84cea4965c5cf851211c</MD5>
 		</Module>
 		<Module name="extraorigins-1.18-1" id="extraorigins" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3646/247/extraorigins-1.18-9.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3878/950/extraorigins-1.18-12.jar</URL>
 			<Size>67699</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>390299cbd7ae500acea4fdbe13c84ddd</MD5>
 		</Module>
 		<Module name="fabric-api-0.46.6+1.18" id="fabricapi" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3671/143/fabric-api-0.46.6+1.18.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/4033/173/fabric-api-0.59.1+1.18.2.jar</URL>
 			<Size>1144830</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>f23fd6e4b81bb02b532ad0aaa1af59c1</MD5>
 		</Module>
 		<Module name="fabric-carpet-1.18-1.4.56+v211130" id="fabriccarpet" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3613/878/fabric-carpet-1.18.1-1.4.57+v220119.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3725/895/fabric-carpet-1.18.2-1.4.69+v220331.jar</URL>
 			<Size>1455386</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>4078f02b6ff8d7cc32f02c6df4ce94f5</MD5>
 		</Module>
 		<Module name="FallingTree-1.18.1-2.16.1" id="fallingtree" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3640/237/FallingTree-1.18.1-3.2.1.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3975/186/FallingTree-1.18.2-3.5.4.jar</URL>
 			<Size>1218944</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>194b1b5754c36ad3f8912bc13c3bc484</MD5>
 		</Module>
 		<Module name="geckolib-fabric-1.18-3.0.23" id="geckolibfabric" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3661/790/geckolib-fabric-1.18-3.0.33.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/4049/968/geckolib-forge-1.18-3.0.47.jar</URL>
 			<Size>3536485</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
@@ -129,21 +129,21 @@
 			<MD5>933e18ca41ca9db73a677b0674c8cc42</MD5>
 		</Module>
 		<Module name="icarus-1.9" id="icarus" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3542/600/icarus-1.9.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3748/670/icarus-1.11.jar</URL>
 			<Size>181307</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>b14d1ba402e5f2df849540c91c6377e6</MD5>
 		</Module>
 		<Module name="iris-mc1.18.1-1.2.0-pre" id="irismc" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3612/857/iris-mc1.18.1-1.2.0-pre.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/4023/643/iris-mc1.18.2-1.4.0.jar</URL>
 			<Size>1593730</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>fc7e13f373dd5a7b5c1cb24d20617d04</MD5>
 		</Module>
 		<Module name="krypton-0.1.6" id="krypton" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3559/150/krypton-0.1.6.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3682/488/krypton-0.1.9.jar</URL>
 			<Size>128782</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
@@ -164,98 +164,98 @@
 			<MD5>b2597e901c05673ef2834dad32da8824</MD5>
 		</Module>
 		<Module name="lithium-fabric-mc1.18.1-0.7.6(1)" id="lithiumfabricmc" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3659/182/lithium-fabric-mc1.18.1-0.7.8.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3801/263/lithium-fabric-mc1.18.2-0.7.10.jar</URL>
 			<Size>387086</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>78db5a281defce0ccd4ef27b1be3fb58</MD5>
 		</Module>
 		<Module name="lovely_snails-1.0.3+1.18" id="lovely_snails" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3546/566/lovely_snails-1.0.3+1.18.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3683/627/lovely_snails-1.0.4+1.18.jar</URL>
 			<Size>130465</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>e0801e645046def466b72658358e9fe6</MD5>
 		</Module>
 		<Module name="mcda-1.8.6" id="mcda" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3668/764/mcda-2.0.2.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3864/859/mcda-2.0.7.jar</URL>
 			<Size>858994</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>ede5a4ab106e4b284c132ceec70f4a47</MD5>
 		</Module>
 		<Module name="mcdar-1.4.3-1.18" id="mcdar" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3542/340/mcdar-1.4.3-1.18.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3964/186/mcdar-1.5.2-1.18.jar</URL>
 			<Size>263688</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>58f3ea016237eaa400e4944006907ac2</MD5>
 		</Module>
 		<Module name="mcdw-3.6.0-1.18" id="mcdw" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3633/298/mcdw-4.0.4.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3971/509/mcdw-5.0.4-1.18.jar</URL>
 			<Size>1464228</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>531548f0ee433dedd4828d9b1ae63ebd</MD5>
 		</Module>
 		<Module name="mermod-1.9-CUSTOMVERSION" id="mermod" depends="" side="BOTH">
-			<URL priority="0">https://carl-craft.com/mermod.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/4049/237/mermod-fabric-2.1.jar</URL>
 			<Size>196752</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>5a65ab35ef5824fe6685e590717cf172</MD5>
 		</Module>
 		<Module name="modmenu-3.0.1" id="modmenu" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3570/652/modmenu-3.0.1.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3850/113/modmenu-3.2.3.jar</URL>
 			<Size>270707</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>9411d9c800ef983de97aa641e791f276</MD5>
 		</Module>
 		<Module name="mostructures-1.3.0-pre1-1.18" id="mostructures" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3567/077/mostructures-1.3.0-pre1-1.18.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3779/101/mostructures-1.4.2+1.18.2.jar</URL>
 			<Size>596987</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>83266c5863a732bcd115926e3e4256a5</MD5>
 		</Module>
 		<Module name="Multiworld-1.2" id="multiworld" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3568/378/Multiworld-1.2.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3924/293/Multiworld-Fabric-1.6.jar</URL>
 			<Size>58337</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>52f281a6616f14bfc52fb687628755c7</MD5>
 		</Module>
 		<Module name="mythic-mounts-1.18-4.0" id="mythicmounts" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3666/886/mythic-mounts-1.18-5.1.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3772/875/mythic-mounts-1.18.2-7.0.jar</URL>
 			<Size>2938481</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>b6fa17f9df5bc9e9e74f47f87de3cf37</MD5>
 		</Module>
 		<Module name="okzoomer-5.0.0-beta.3+1.17.1(1)" id="okzoomer" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3538/853/okzoomer-5.0.0-beta.3+1.17.1.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3762/246/ok_zoomer-5.0.0-beta.7+1.18.2.jar</URL>
 			<Size>269759</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>466ef40f80e077bfbd701cea64530498</MD5>
 		</Module>
 		<Module name="Origins-1.18-1.3.1" id="origins" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3561/745/Origins-1.18-1.3.1.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3752/286/Origins-1.18.2-1.4.1.jar</URL>
 			<Size>1984058</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>9f3085682d7bc97a4651c84ed77bb8d5</MD5>
 		</Module>
 		<Module name="Origins-Classes-1.18-1.2.4" id="originsclasses" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3554/925/Origins-Classes-1.18-1.2.4.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3752/361/Origins-Classes-1.18.2-1.3.0.jar</URL>
 			<Size>145074</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>d8273364f2d5255f912120a825b093b3</MD5>
 		</Module>
 		<Module name="Pehkui-3.1.0+1.14.4-1.18.1" id="pehkui" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3577/068/Pehkui-3.1.0+1.14.4-1.18.1.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/4020/363/Pehkui-3.5.0+1.14.4-1.19.2.jar</URL>
 			<Size>312629</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
@@ -269,21 +269,21 @@
 			<MD5>3784115dce18905df484e4cc1853dfc0</MD5>
 		</Module>
 		<Module name="ratsmischief-1.3.4" id="ratsmischief" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3689/024/ratsmischief-1.3.5.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3778/759/ratsmischief-1.3.7.jar</URL>
 			<Size>299083</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>6d8a21b2e7fba14e43ebaaaf5ebe22f8</MD5>
 		</Module>
 		<Module name="respawnablepets-1.18-1" id="respawnablepets" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3541/956/respawnablepets-1.18-1.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3687/422/respawnablepets-1.18-4.jar</URL>
 			<Size>110456</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>d6ec7264af7da33e2cdab08d9ed00773</MD5>
 		</Module>
 		<Module name="RoughlyEnoughItems-7.1.356" id="roughlyenoughitems" depends="" side="CLIENT">
-			<URL priority="0">https://edge.forgecdn.net/files/3670/493/RoughlyEnoughItems-7.3.443.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/4040/774/RoughlyEnoughItems-8.3.556.jar</URL>
 			<Size>1497291</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
@@ -297,63 +297,56 @@
 			<MD5>aed1504bfd474cb5e8d3c3cdff580826</MD5>
 		</Module>
 		<Module name="sodium-extra-mc1.18.1-0.4.0.jar" id="sodiumextramc" depends="" side="BOTH">
-			<URL priority="0">https://github.com/FlashyReese/sodium-extra-fabric/releases/download/mc1.18.1-0.4.0/sodium-extra-mc1.18.1-0.4.0.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/4010/302/sodium-extra-0.4.11+mc1.18.2-build.67.jar</URL>
 			<Size>86120</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>8d2d86d6e94390cc5b301ec05c0bfaf9</MD5>
 		</Module>
 		<Module name="sodium-fabric-mc1.18.1-0.4.0-alpha6+build.14" id="sodiumfabricmc" depends="" side="BOTH">
-			<URL priority="0">https://github.com/CaffeineMC/sodium-fabric/releases/download/mc1.18.1-0.4.0-alpha6/sodium-fabric-mc1.18.1-0.4.0-alpha6+build.14.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3669/187/sodium-fabric-mc1.18.2-0.4.1+build.15.jar</URL>
 			<Size>1306093</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>4d3a28d3c7d8478233daa0a1a87a7d19</MD5>
 		</Module>
 		<Module name="taterzens-1.6.5-fabric" id="taterzens" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3652/762/taterzens-1.8.4-fabric.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3935/280/taterzens-1.8.5-fabric.jar</URL>
 			<Size>387964</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>1b51ac05f37495bf7d098ca4030f75d0</MD5>
 		</Module>
 		<Module name="trinkets-3.1.0(1)" id="trinkets" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3629/559/trinkets-3.2.0.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3786/685/trinkets-3.3.1.jar</URL>
 			<Size>217333</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>c13d74a3f358dcb9fdbe9af7d6d5949f</MD5>
 		</Module>
-		<Module name="updateblockentity-1.1.0" id="updateblockentity" depends="" side="BOTH">
-			<URL priority="0">https://cdn.modrinth.com/data/18b9VcGz/versions/1.1.0/updateblockentity-1.1.0.jar</URL>
-			<Size>14742</Size>
-			<Required>true</Required>
-			<ModType>Regular</ModType>
-			<MD5>4fbd0c6f91a1981019700f00e19e965a</MD5>
-		</Module>
 		<Module name="wraith-waystones-2.4.1" id="wraithwaystones" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3575/744/wraith-waystones-2.4.1.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3864/556/wraith-waystones-2.5.5+mc1.18.2.jar</URL>
 			<Size>314934</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>944f5e360159227b42ac585ed8713d0a</MD5>
 		</Module>
 		<Module name="indium-1.0.2-alpha1+mc1.18" id="indium" depends="" side="BOTH">
-			<URL priority="0">https://github.com/comp500/Indium/releases/download/1.0.2-alpha3%2Bmc1.18.1/indium-1.0.2-alpha3+mc1.18.1.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3911/811/indium-1.0.7+mc1.18.2.jar</URL>
 			<Size>110396</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>03393652255585d6cad1b64a9847cac4</MD5>
 		</Module>
 		<Module name="clothconfig" id="clothconfigapi" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3641/132/cloth-config-6.2.57-fabric.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3668/284/cloth-api-3.2.64.jar</URL>
 			<Size>110396</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>03393652255585d6cad1b64a9847cac4</MD5>
 		</Module>
 		<Module name="capybara" id="capybara" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3591/830/capybara-1.18-1.0.1.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/4011/517/capybara-1.18.2-1.0.8.jar</URL>
 			<Size>110396</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
@@ -367,49 +360,49 @@
 			<MD5>03393652255585d6cad1b64a9847cac4</MD5>
 		</Module>
 		<Module name="setspawnpoint" id="setspawnpoint" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3542/130/setworldspawnpoint-fabric_1.18.x-1.8.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/4015/673/setworldspawnpoint-fabric_1.18.2-2.6.jar</URL>
 			<Size>110396</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>03393652255585d6cad1b64a9847cac4</MD5>
 		</Module>
 		<Module name="collective" id="collective" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3678/695/collective-fabric-1.18.x-4.9.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/4035/498/collective-fabric-1.18.2-5.11.jar</URL>
 			<Size>110396</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>03393652255585d6cad1b64a9847cac4</MD5>
 		</Module>
 		<Module name="starterkit" id="starterkit" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3542/112/starterkit-fabric_1.18.x-3.1.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/4015/639/starterkit-fabric_1.18.2-3.8.jar</URL>
 			<Size>110396</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>03393652255585d6cad1b64a9847cac4</MD5>
 		</Module>
 		<Module name="advancedchatcore" id="advancedchatcore" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3635/189/AdvancedChatCore-1.18.1-1.4.2.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3768/022/AdvancedChatCore-1.18.2-1.5.0.jar</URL>
 			<Size>110396</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>03393652255585d6cad1b64a9847cac4</MD5>
 		</Module>
 		<Module name="bitsandchisels" id="bitsandchisels" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3592/089/bitsandchisels-2.6.4.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3841/573/bitsandchisels-2.6.13.jar</URL>
 			<Size>110396</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>03393652255585d6cad1b64a9847cac4</MD5>
 		</Module>
 		<Module name="travelersbackpack" id="travelersbackpack" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3662/414/travelers-backpack-1.18.1-7.0.0.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/4035/634/travelers-backpack-1.18.2-7.1.10.jar</URL>
 			<Size>110396</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>03393652255585d6cad1b64a9847cac4</MD5>
 		</Module>
 		<Module name="stoneholm" id="stoneholm" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3631/590/stoneholm-1.4.2.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3736/161/stoneholm-1.4.3.jar</URL>
 			<Size>110396</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
@@ -423,35 +416,35 @@
 			<MD5>03393652255585d6cad1b64a9847cac4</MD5>
 		</Module>
 		<Module name="malilib" id="malilib" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3671/369/malilib-fabric-1.18.1-0.11.8.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3692/220/malilib-fabric-1.18.2-0.12.1.jar</URL>
 			<Size>110396</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>03393652255585d6cad1b64a9847cac4</MD5>
 		</Module>
 		<Module name="paradiselost" id="paradiselost" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3777/051/paradise-lost-1.6.9+1.18.1.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3777/049/paradise-lost-1.6.9+1.18.2.jar</URL>
 			<Size>110396</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>03393652255585d6cad1b64a9847cac4</MD5>
 		</Module>
 		<Module name="inmis" id="inmis" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3557/005/inmis-2.4.0-1.18.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3783/618/inmis-2.6.0-1.18.2.jar</URL>
 			<Size>110396</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>03393652255585d6cad1b64a9847cac4</MD5>
 		</Module>
 		<Module name="pswg" id="starwars" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3672/873/pswg-0.0.62+1.18.1.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3819/114/pswg-0.0.71+1.18.2.jar</URL>
 			<Size>110396</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>03393652255585d6cad1b64a9847cac4</MD5>
 		</Module>
 		<Module name="agape" id="spacemodthing" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/3681/477/agape_space_18_1-0.5.4.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/4002/889/agape_space_18_2-0.5.17.jar</URL>
 			<Size>110396</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
@@ -459,3 +452,4 @@
 		</Module>
 	</Server>
 </ServerPack>
+
