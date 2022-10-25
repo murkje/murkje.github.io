@@ -94,84 +94,84 @@
 			<MD5>390299cbd7ae500acea4fdbe13c84ddd</MD5>
 		</Module>
 		<Module name="fabric-api-0.46.6+1.18" id="fabricapi" depends="" side="BOTH">
-			<URL priority="0"></URL>
+			<URL priority="0">https://edge.forgecdn.net/files/4033/173/fabric-api-0.59.1+1.18.2.jar</URL>
 			<Size>1144830</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>f23fd6e4b81bb02b532ad0aaa1af59c1</MD5>
 		</Module>
 		<Module name="fabric-carpet-1.18-1.4.56+v211130" id="fabriccarpet" depends="" side="BOTH">
-			<URL priority="0"></URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3725/895/fabric-carpet-1.18.2-1.4.69+v220331.jar</URL>
 			<Size>1455386</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>4078f02b6ff8d7cc32f02c6df4ce94f5</MD5>
 		</Module>
 		<Module name="FallingTree-1.18.1-2.16.1" id="fallingtree" depends="" side="BOTH">
-			<URL priority="0"></URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3975/186/FallingTree-1.18.2-3.5.4.jar</URL>
 			<Size>1218944</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>194b1b5754c36ad3f8912bc13c3bc484</MD5>
 		</Module>
 		<Module name="geckolib-fabric-1.18-3.0.23" id="geckolibfabric" depends="" side="BOTH">
-			<URL priority="0"></URL>
+			<URL priority="0">https://edge.forgecdn.net/files/4049/968/geckolib-forge-1.18-3.0.47.jar</URL>
 			<Size>3536485</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>46340c095e1459a30093adfbfe96e9e5</MD5>
 		</Module>
 		<Module name="goprone-1.18.1-1.6.0" id="goprone" depends="" side="BOTH">
-			<URL priority="0"></URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3545/146/GoProne-Fabric-1.18-1.1.jar</URL>
 			<Size>156936</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>933e18ca41ca9db73a677b0674c8cc42</MD5>
 		</Module>
 		<Module name="icarus-1.9" id="icarus" depends="" side="BOTH">
-			<URL priority="0"></URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3748/670/icarus-1.11.jar</URL>
 			<Size>181307</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>b14d1ba402e5f2df849540c91c6377e6</MD5>
 		</Module>
 		<Module name="iris-mc1.18.1-1.2.0-pre" id="irismc" depends="" side="BOTH">
-			<URL priority="0"></URL>
+			<URL priority="0">https://edge.forgecdn.net/files/4023/643/iris-mc1.18.2-1.4.0.jar</URL>
 			<Size>1593730</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>fc7e13f373dd5a7b5c1cb24d20617d04</MD5>
 		</Module>
 		<Module name="krypton-0.1.6" id="krypton" depends="" side="BOTH">
-			<URL priority="0"></URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3682/488/krypton-0.1.9.jar</URL>
 			<Size>128782</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>63da5e85f629a406857bdeaa13799221</MD5>
 		</Module>
 		<Module name="lambdynamiclights-2.1.0+1.17(1)" id="lambdynamiclights" depends="" side="BOTH">
-			<URL priority="0"></URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3541/670/lambdynamiclights-2.1.0+1.17.jar</URL>
 			<Size>592990</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>14f088afd4041973b1a083b0c7705303</MD5>
 		</Module>
 		<Module name="lazydfu-0.1.2" id="lazydfu" depends="" side="BOTH">
-			<URL priority="0"></URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3209/972/lazydfu-0.1.2.jar</URL>
 			<Size>15517</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>b2597e901c05673ef2834dad32da8824</MD5>
 		</Module>
 		<Module name="lithium-fabric-mc1.18.1-0.7.6(1)" id="lithiumfabricmc" depends="" side="BOTH">
-			<URL priority="0"></URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3801/263/lithium-fabric-mc1.18.2-0.7.10.jar</URL>
 			<Size>387086</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>78db5a281defce0ccd4ef27b1be3fb58</MD5>
 		</Module>
 		<Module name="lovely_snails-1.0.3+1.18" id="lovely_snails" depends="" side="BOTH">
-			<URL priority="0"></URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3683/627/lovely_snails-1.0.4+1.18.jar</URL>
 			<Size>130465</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
