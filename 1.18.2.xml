@@ -3,91 +3,91 @@
 	<Server id="carlcraft" abstract="false" name="CarlCraft - Into the carlverse" newsUrl="about:blank" iconUrl="https://cdn.discordapp.com/attachments/535195187111133185/958096710062723082/CarlCraft_-_thumbnail_-_smoll.png" version="1.18.1" serverAddress="46.105.60.73:25583" generateList="true" autoConnect="false" revision="1" mainClass="net.fabricmc.loader.launch.knot.KnotClient" launcherType="Vanilla">
 		<Import url="https://fabricmc.net/download/mcupdater?yarn=1.18.1%2Bbuild.22&amp;loader=0.13.3">fabric</Import>
 		<Module name="architectury-3.2.60(1)" id="architectury" depends="" side="BOTH">
-			<URL priority="0"></URL>
+			<URL priority="0">https://edge.forgecdn.net/files/4040/965/architectury-4.10.86-fabric.jar</URL>
 			<Size>518307</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>83a9a49ed31c1932651f503a79768d54</MD5>
 		</Module>
 		<Module name="bclib-1.1.6" id="bclib" depends="" side="BOTH">
-			<URL priority="0"></URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3814/359/bclib-1.4.7.jar</URL>
 			<Size>909069</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>465f26720b9c2bf2164c487b19ca5216</MD5>
 		</Module>
 		<Module name="better-end-1.0.0" id="betterend" depends="" side="BOTH">
-			<URL priority="0"></URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3814/370/better-end-1.1.1.jar</URL>
 			<Size>91256215</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>c0dd4ba53a10e16391cfa661c38edc21</MD5>
 		</Module>
 		<Module name="better-nether-6.0.8" id="betternether" depends="" side="BOTH">
-			<URL priority="0"></URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3814/362/better-nether-6.1.2.jar</URL>
 			<Size>22307314</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>7864d411619e90ffb0381bf8287efa25</MD5>
 		</Module>
 		<Module name="cardinal-components-api-4.1.4" id="cardinalcomponentsapi" depends="" side="BOTH">
-			<URL priority="0"></URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3856/670/cardinal-components-api-4.2.0.jar</URL>
 			<Size>253060</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>5016e946d72e744d57e93fee33b6bb8c</MD5>
 		</Module>
 		<Module name="carrier-1.9.1" id="carrier" depends="" side="BOTH">
-			<URL priority="0"></URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3671/184/carrier-1.10.0.jar</URL>
 			<Size>433558</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>f14815292112fc895bf20f8ab3519ea1</MD5>
 		</Module>
 		<Module name="custom-portals-3.0.0" id="customportals" depends="" side="BOTH">
-			<URL priority="0"></URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3680/456/custom-portals-3.0.1.jar</URL>
 			<Size>1597689</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>3c9591e0b74e4bb0a1a0171315cba906</MD5>
 		</Module>
 		<Module name="dual_riders-1.18.1-1.0.5" id="dual_riders" depends="" side="BOTH">
-			<URL priority="0"></URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3783/155/dual_riders-1.18.2-1.1.1-fabric.jar</URL>
 			<Size>228458</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>e798c62f0ce2c53fb864d3d20265a9e1</MD5>
 		</Module>
 		<Module name="dualwielding-1.0.7(2)" id="dualwielding" depends="" side="BOTH">
-			<URL priority="0"></URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3819/386/dualwielding-1.1.0.jar</URL>
 			<Size>29310</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>0c3e883fa2bb996fbf754bd9cb71eafe</MD5>
 		</Module>
 		<Module name="dynamic-fps-2.0.6" id="dynamicfps" depends="" side="BOTH">
-			<URL priority="0"></URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3606/973/dynamic-fps-2.1.0.jar</URL>
 			<Size>90373</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>16b601d42126586465ccc5be23226f19</MD5>
 		</Module>
 		<Module name="ears-fabric-1.17-1.4.3(1)" id="earsfabric" depends="" side="BOTH">
-			<URL priority="0"></URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3616/906/ears-fabric-1.17-1.4.5_01.jar</URL>
 			<Size>151579</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>f857a569bdd43178537d2bb9911c7cb7</MD5>
 		</Module>
 		<Module name="enhancedblockentities-0.5+1.18" id="enhancedblockentities" depends="" side="BOTH">
-			<URL priority="0"></URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3841/822/enhancedblockentities-0.7.1+1.18.2.jar</URL>
 			<Size>262810</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>553a18a59dcc84cea4965c5cf851211c</MD5>
 		</Module>
 		<Module name="extraorigins-1.18-1" id="extraorigins" depends="" side="BOTH">
-			<URL priority="0"></URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3878/950/extraorigins-1.18-12.jar</URL>
 			<Size>67699</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
