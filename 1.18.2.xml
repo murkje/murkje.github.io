@@ -178,28 +178,28 @@
 			<MD5>e0801e645046def466b72658358e9fe6</MD5>
 		</Module>
 		<Module name="mcda-1.8.6" id="mcda" depends="" side="BOTH">
-			<URL priority="0"></URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3864/859/mcda-2.0.7.jar</URL>
 			<Size>858994</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>ede5a4ab106e4b284c132ceec70f4a47</MD5>
 		</Module>
 		<Module name="mcdar-1.4.3-1.18" id="mcdar" depends="" side="BOTH">
-			<URL priority="0"></URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3964/186/mcdar-1.5.2-1.18.jar</URL>
 			<Size>263688</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>58f3ea016237eaa400e4944006907ac2</MD5>
 		</Module>
 		<Module name="mcdw-3.6.0-1.18" id="mcdw" depends="" side="BOTH">
-			<URL priority="0"></URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3971/509/mcdw-5.0.4-1.18.jar</URL>
 			<Size>1464228</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>531548f0ee433dedd4828d9b1ae63ebd</MD5>
 		</Module>
 		<Module name="mermod-1.9-CUSTOMVERSION" id="mermod" depends="" side="BOTH">
-			<URL priority="0">https://carl-craft.com/mermod.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/4049/237/mermod-fabric-2.1.jar</URL>
 			<Size>196752</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
