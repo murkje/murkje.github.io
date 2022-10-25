@@ -367,84 +367,84 @@
 			<MD5>03393652255585d6cad1b64a9847cac4</MD5>
 		</Module>
 		<Module name="collective" id="collective" depends="" side="BOTH">
-			<URL priority="0"></URL>
+			<URL priority="0">https://edge.forgecdn.net/files/4035/498/collective-fabric-1.18.2-5.11.jar</URL>
 			<Size>110396</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>03393652255585d6cad1b64a9847cac4</MD5>
 		</Module>
 		<Module name="starterkit" id="starterkit" depends="" side="BOTH">
-			<URL priority="0"></URL>
+			<URL priority="0">https://edge.forgecdn.net/files/4015/639/starterkit-fabric_1.18.2-3.8.jar</URL>
 			<Size>110396</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>03393652255585d6cad1b64a9847cac4</MD5>
 		</Module>
 		<Module name="advancedchatcore" id="advancedchatcore" depends="" side="BOTH">
-			<URL priority="0"></URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3768/022/AdvancedChatCore-1.18.2-1.5.0.jar</URL>
 			<Size>110396</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>03393652255585d6cad1b64a9847cac4</MD5>
 		</Module>
 		<Module name="bitsandchisels" id="bitsandchisels" depends="" side="BOTH">
-			<URL priority="0"></URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3841/573/bitsandchisels-2.6.13.jar</URL>
 			<Size>110396</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>03393652255585d6cad1b64a9847cac4</MD5>
 		</Module>
 		<Module name="travelersbackpack" id="travelersbackpack" depends="" side="BOTH">
-			<URL priority="0"></URL>
+			<URL priority="0">https://edge.forgecdn.net/files/4035/634/travelers-backpack-1.18.2-7.1.10.jar</URL>
 			<Size>110396</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>03393652255585d6cad1b64a9847cac4</MD5>
 		</Module>
 		<Module name="stoneholm" id="stoneholm" depends="" side="BOTH">
-			<URL priority="0"></URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3736/161/stoneholm-1.4.3.jar</URL>
 			<Size>110396</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>03393652255585d6cad1b64a9847cac4</MD5>
 		</Module>
 		<Module name="skyvillages" id="skyvillages" depends="" side="BOTH">
-			<URL priority="0"></URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3587/441/SkyVillages-1.0.1-1.18.1-fabric.jar</URL>
 			<Size>110396</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>03393652255585d6cad1b64a9847cac4</MD5>
 		</Module>
 		<Module name="malilib" id="malilib" depends="" side="BOTH">
-			<URL priority="0"></URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3692/220/malilib-fabric-1.18.2-0.12.1.jar</URL>
 			<Size>110396</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>03393652255585d6cad1b64a9847cac4</MD5>
 		</Module>
 		<Module name="paradiselost" id="paradiselost" depends="" side="BOTH">
-			<URL priority="0"></URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3777/049/paradise-lost-1.6.9+1.18.2.jar</URL>
 			<Size>110396</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>03393652255585d6cad1b64a9847cac4</MD5>
 		</Module>
 		<Module name="inmis" id="inmis" depends="" side="BOTH">
-			<URL priority="0"></URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3783/618/inmis-2.6.0-1.18.2.jar</URL>
 			<Size>110396</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>03393652255585d6cad1b64a9847cac4</MD5>
 		</Module>
 		<Module name="pswg" id="starwars" depends="" side="BOTH">
-			<URL priority="0"></URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3819/114/pswg-0.0.71+1.18.2.jar</URL>
 			<Size>110396</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>03393652255585d6cad1b64a9847cac4</MD5>
 		</Module>
 		<Module name="agape" id="spacemodthing" depends="" side="BOTH">
-			<URL priority="0"></URL>
+			<URL priority="0">https://edge.forgecdn.net/files/4002/889/agape_space_18_2-0.5.17.jar</URL>
 			<Size>110396</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
