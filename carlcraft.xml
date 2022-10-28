@@ -115,7 +115,7 @@
 			<MD5>194b1b5754c36ad3f8912bc13c3bc484</MD5>
 		</Module>
 		<Module name="geckolib-fabric-1.18-3.0.23" id="geckolibfabric" depends="" side="BOTH">
-			<URL priority="0">https://edge.forgecdn.net/files/4049/968/geckolib-forge-1.18-3.0.47.jar</URL>
+			<URL priority="0">https://edge.forgecdn.net/files/3661/795/geckolib-fabric-1.18.2-3.0.35.jar</URL>
 			<Size>3536485</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
