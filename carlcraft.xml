@@ -254,7 +254,7 @@
 			<ModType>Regular</ModType>
 			<MD5>d8273364f2d5255f912120a825b093b3</MD5>
 		</Module>
-		<Module name="Pehkui-3.1.0+1.14.4-1.18.1" id="pehkui" depends="" side="BOTH">
+		<Module name="Pehkui-3.1.0+1.14.4-1.18.2" id="pehkui" depends="" side="BOTH">
 			<URL priority="0">https://edge.forgecdn.net/files/4020/363/Pehkui-3.5.0+1.14.4-1.19.2.jar</URL>
 			<Size>312629</Size>
 			<Required>true</Required>
