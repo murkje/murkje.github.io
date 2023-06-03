@@ -1,0 +1,54 @@
+c#libraries\net\fabricmc\access-widener\2.1.0\access-widener-2.1.0.jar# 2/06/23#30866#0#0#80f09457ab4b55c6c68da3447c13e6a6
+c#libraries\net\fabricmc\fabric-loader\0.14.21\fabric-loader-0.14.21.jar# 2/06/23#825864#0#0#36ac9e0b6566abadb90bced9a06ccdee
+c#libraries\net\fabricmc\intermediary\1.18.2\intermediary-1.18.2.jar# 2/06/23#481558#0#0#9f15acac19c5fee337980c0d35107543
+c#libraries\net\fabricmc\sponge-mixin\0.12.5+mixin.0.8.5\sponge-mixin-0.12.5+mixin.0.8.5.jar# 2/06/23#1451874#0#0#e85df80dadaa4371699c643082e3aadd
+c#libraries\net\fabricmc\tiny-mappings-parser\0.3.0+build.17\tiny-mappings-parser-0.3.0+build.17.jar# 2/06/23#82671#0#0#ad1241a8de1c04b5dedf3b0002595256
+c#libraries\net\fabricmc\tiny-remapper\0.8.2\tiny-remapper-0.8.2.jar# 2/06/23#216774#0#0#320c45ecef572480015dbe873662a655
+c#libraries\org\ow2\asm\asm\9.5\asm-9.5.jar# 2/06/23#121863#0#0#79775bfa5b6c1d26f02a211db6d419c0
+c#libraries\org\ow2\asm\asm-analysis\9.5\asm-analysis-9.5.jar# 2/06/23#33978#0#0#5540e27f6267ff9f6f039ab4db003943
+c#libraries\org\ow2\asm\asm-commons\9.5\asm-commons-9.5.jar# 2/06/23#72209#0#0#532560bd368a65b402911f22ba0170da
+c#libraries\org\ow2\asm\asm-tree\9.5\asm-tree-9.5.jar# 2/06/23#51944#0#0#1f60f38f522c6ac9292ab40e179611ce
+c#libraries\org\ow2\asm\asm-util\9.5\asm-util-9.5.jar# 2/06/23#91076#0#0#6f00a629cf03230d910c43d5cc9de73d
+c#mods\capybara.jar#28/12/22#122479#0#0#2a7f138334fbfddaf40d7bd32e4fbe68
+c#mods\cardinalcomponentsapi.jar#28/12/22#254353#0#0#a39b890addbbc2650203707e7a0f7f17
+c#mods\carrier.jar#28/12/22#300820#0#0#fecdb376bd0010825ed70ef87f3d0a1a
+c#mods\clothconfigapi.jar#28/12/22#138656#0#0#f846c589b1ff78fa656a500d5a5caa18
+c#mods\collective.jar#28/12/22#552695#0#0#a41d4c5ee5bd1a59408e80ae2007f4e3
+c#mods\customportals.jar#28/12/22#1598131#0#0#4a9ca5117acf5ee4e8ec93a594b7fa71
+c#mods\dualwielding.jar#28/12/22#30062#0#0#c1b6ab113b2b1770261d86bc29434f47
+c#mods\dual_riders.jar#28/12/22#10096#0#0#e50e810c744123c247aaf590b46a520e
+c#mods\dynamicfps.jar#28/12/22#88824#0#0#d574c8308f6ff336a3cb3f60752d26b6
+c#mods\earsfabric.jar#28/12/22#168157#0#0#027b23cbd001f5c526071f8cf8398ac3
+c#mods\enhancedblockentities.jar#28/12/22#481307#0#0#9b9817917bbb70a249be9585a193a169
+c#mods\extraorigins.jar#28/12/22#116148#0#0#820b13b3c50fbcffca09811a44c8a3bd
+c#mods\fabricapi.jar#28/12/22#1445251#0#0#86d23033b55fc68668d938732e42e0d8
+c#mods\fabriccarpet.jar#28/12/22#1479637#0#0#84ed8b52a94dace8705f71d65e7fa5c3
+c#mods\fallingtree.jar#28/12/22#361417#0#0#264779cb4a0d0ad47822f5554504c145
+c#mods\froggychair.jar#28/12/22#21805#0#0#3cb6f69a5d8c78f361efd97ff6e0ba2f
+c#mods\geckolibfabric.jar#28/12/22#3550105#0#0#1bcdfd761c4bf3d9179ab75e0ef45ce8
+c#mods\goprone.jar#28/12/22#139993#0#0#6470544a20c2a253c6b1d269a84372cd
+c#mods\icarus.jar#28/12/22#181350#0#0#d1c834e55684b25f4e1e00f59a183cee
+c#mods\indium.jar#28/12/22#118746#0#0#8268675f2337b511c7a96e44b7fd0b4f
+c#mods\inmis.jar#28/12/22#152470#0#0#d56b010ebb25f875e90d0ce5786bcc8e
+c#mods\irismc.jar#28/12/22#2609760#0#0#782dbfde3b221ae22cd0a855b5762bc2
+c#mods\krypton.jar#28/12/22#132286#0#0#0b9e8021db118ecc60d6345c7399aa8d
+c#mods\lambdynamiclights.jar#28/12/22#592990#0#0#3b8e354d34bd8bd9fbd35a12bcf3776a
+c#mods\launcher_profiles.json# 2/06/23#1435#0#0#90ba9cb718f597787c259a3588abb4db
+c#mods\lazydfu.jar#28/12/22#15517#0#0#e25ed46b555969af0e8ae370f0f88dfb
+c#mods\lithiumfabricmc.jar#28/12/22#466196#0#0#2ca5861a200c1f20585e0ca02ae5cfcd
+c#mods\lovely_snails.jar#28/12/22#131540#0#0#743bd8b7e250aaa4a38e745ccad99281
+c#mods\malilib.jar#28/12/22#495524#0#0#e5c64e9abb563a4886cf8d6b1d78d2e4
+c#mods\mcda.jar#28/12/22#833973#0#0#c1b886f8fa4fe3b165a29cf57b33f202
+c#mods\mcdar.jar#28/12/22#273207#0#0#6ca2c3a62c6139283d7b2162d4b3f88f
+c#mods\mcdw.jar#28/12/22#1235488#0#0#76e88fd444be205ba29affe32f15f4c5
+c#mods\mermod.jar#28/12/22#291867#0#0#6f2936ad05971dd975924d99f844384c
+c#mods\modmenu.jar#28/12/22#422628#0#0#874c44ff798562ed85c79226e9ad30e4
+c#mods\mostructures.jar#28/12/22#700133#0#0#f55cfcc9c8a1ed7986b33caf75f10e24
+c#mods\multiworld.jar#28/12/22#111522#0#0#57bdf1e72f45840c0c340e2bea751a43
+c#mods\mythicmounts.jar#28/12/22#4169692#0#0#73a83fdc80820117d3ae9c1f6482f3da
+c#mods\okzoomer.jar#28/12/22#264173#0#0#4a9c229303ef840e7fc6d5fb5cbefb0b
+c#mods\origins.jar#28/12/22#2120405#0#0#dda3eb58ce5ac3ab6eb5abf9e0bc41b3
+c#mods\originsclasses.jar#28/12/22#166481#0#0#2fda3e0d4699dcf758510edb06e350ca
+c#version.txt# 3/06/23#3#0#0#4e890a0a9d8853b046f667b966f2c0e4
+c#versions\fabric-loader-0.14.21-1.18.2\fabric-loader-0.14.21-1.18.2.jar# 2/06/23#0#0#0#b7812c8111a95dc7f12a2255ffd38f98
+c#versions\fabric-loader-0.14.21-1.18.2\fabric-loader-0.14.21-1.18.2.json# 2/06/23#1183#0#0#00142b733de33527ca8f8e0793cc8219
